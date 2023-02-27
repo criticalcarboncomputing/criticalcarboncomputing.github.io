@@ -6,7 +6,7 @@ This is a shared draft (v.1) document being used for the creation of the Carbon 
 
 1/ Front Page
 
-The Carbon Computing Collective is a collective of researchers, academics, activists, artists, and concerned citizens focused on facilitating and drawing attention to ongoing conversations on the topics of carbon trading, computing waste, and sustainability (defined broadly) and on the creation of a shared repository for information and research. 
+The Carbon Computing Collective is a collective of researchers, academics, activists, artists, and concerned citizens focused on facilitating and fact checking ongoing conversations on the topics of carbon trading, computing waste, and sustainability (defined broadly) and on creating a shared repository for information and research. 
 	
 
 2/ Members
